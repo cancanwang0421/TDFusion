@@ -10,8 +10,9 @@
 
 ## 📂 Dataset Download
 
-[EMS dataset]: https://github.com/XunpengYi/EMS
-[LOL dataset]: https://daooshee.github.io/BMVC2018website/
+[EMS dataset](https://github.com/XunpengYi/EMS)
+
+[LOL dataset](https://daooshee.github.io/BMVC2018website/)
 
 ## 📥 Pre-trained Weights
 
